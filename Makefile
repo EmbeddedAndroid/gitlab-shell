@@ -1,4 +1,4 @@
-REDIS_RB_VERSION=v3.3.0
+REDIS_RB_VERSION=v3.3.1
 REDIS_RB_VENDOR_DIR=lib/vendor/redis
 PWD=`pwd`
 
